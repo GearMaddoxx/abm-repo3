@@ -63,4 +63,8 @@ public class CarPart {
 }
 
 
+<<<<<<< HEAD
 //this changes done by second developer
+=======
+//this changes done by first developers
+>>>>>>> branch 'master' of https://github.com/GearMaddoxx/abm-repo3

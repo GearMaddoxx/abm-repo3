@@ -6,7 +6,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
-	
+	<bean id="hello" class="com.abm.component.HelloWorld" ></bean>
 	<!-- loading annotation beans-->
 	<context:component-scan base-package="com.abm.component" />
 </beans>
